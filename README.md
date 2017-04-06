@@ -1,2 +1,3 @@
 # hello-world
-This is my first Repo
+This is my first Repositry 
+Testing the waters on GitHub
